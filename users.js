@@ -900,3 +900,5 @@ const users = [
 			"nat": "AU"
 		}
 	]
+
+	module.exports = users;
