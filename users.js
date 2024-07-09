@@ -901,4 +901,6 @@ const users = [
 		}
 	]
 
-	module.exports = users;
+
+	// This line was for Node.js testing, commented out to test in browser instead
+	// module.exports = users;

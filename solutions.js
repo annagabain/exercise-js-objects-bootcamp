@@ -1,4 +1,7 @@
-const users = require("./users");
+
+// This line was for Node.js testing, commented out to test in browser instead
+// const users = require("./users");
+
 // my tests to connect the users and solutions files
 // console.log(users)
 // users.forEach( user => {console.log(user.name.first)})
